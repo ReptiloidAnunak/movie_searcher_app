@@ -14,7 +14,7 @@ Run command `pip install -r requirements.txt`
 
 #### **Run app**
 
-You should write in your terminal the command `python3 termwork_4/run.py`. To realize all methods of my app you can use Postman or similar tools
+You should write in your terminal the command `python3 termwork_4/run.py`. To test all methods of my app you can use Postman or similar tools
 
 
 
